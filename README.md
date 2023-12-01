@@ -1,6 +1,7 @@
 # WXS-workflow
 Whole exome sequencing data analysis using GATK. Analysis is from fastq files to annotated SNPs.
 
+### Source
 - Project Source Data: Lee JH, Zhao XM, Yoon I, et al. Integrative analysis of mutational and transcriptional profiles reveals driver mutations of metastatic breast cancers. Cell Discovery. 2016;2:16025. DOI: 10.1038/celldisc.2016.25.
 - SRA Project ID: PRJEB9083
 - Metadata table: [SRA Run Selector table](https://www.ncbi.nlm.nih.gov/Traces/study/?query_key=8&WebEnv=MCID_6567e1fdc74a383354317088&o=acc_s%3Aa)
